@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "max-len": [2, 200, {"ignoreUrls": true}],
+    "quotes": [0],
+    "no-unused-vars": [0],
+    "space-before-function-paren": [0],
+    "quote-props": [0],
+    "array-bracket-spacing": [0],
+    "no-multi-spaces": [0],
+    "arrow-body-style": [0],
+    "no-console": [0],
+    "comma-dangle": [0]
+  }
+}
